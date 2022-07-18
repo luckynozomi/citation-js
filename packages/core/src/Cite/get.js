@@ -66,6 +66,7 @@ export function get (options = {}) {
 
     case 'data':
     case 'bibtex':
+    case 'biblatex':
     case 'bibtxt':
     case 'ndjson':
     case 'ris':

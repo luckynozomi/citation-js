@@ -1,6 +1,6 @@
 const formats = ['real', 'string']
 const types = ['json', 'html', 'string', 'rtf']
-const styles = ['csl', 'bibtex', 'bibtxt', 'citation-*', 'ris', 'ndjson']
+const styles = ['csl', 'bibtex', 'biblatex', 'bibtxt', 'citation-*', 'ris', 'ndjson']
 const wrapperTypes = ['string', 'function']
 
 /**
